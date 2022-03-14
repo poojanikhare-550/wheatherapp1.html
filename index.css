@@ -1,0 +1,31 @@
+
+
+    
+[10:57 PM, 3/14/2022] :
+ input[type="text"] {
+    height: 40px;
+    width: 450px;
+    background: #e7e7e7;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px 10px;
+    color: rgb(83, 13, 25);
+    border: 1px solid;
+    border-radius: 5px;
+    box-shadow: 15px 15px 40px rgb(78, 78, 78);
+  }
+  [10:58 PM, 3/14/2022] :
+   input[type="submit"] {
+    height: 40px;
+    width: 100px;
+    border: 1px solid;
+    border-radius: 5px;
+    background : #e7e7e7;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(78, 10, 21);
+    box-shadow: 15px 15px 50px rgb(182, 137, 137);
+    border-radius: 2px;
+  }
